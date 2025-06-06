@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=ff00ff,00ffc7&height=300&section=header&text=IRO's%20Universe&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=38" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ffc7&height=300&section=header&text=IRO's%20Universe&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=38" alt="Header"/>
 </div>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
