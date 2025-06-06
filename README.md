@@ -1,47 +1,46 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20there!&fontSize=90&animation=fadeIn&fontAlignY=35" />
+<div id="user-content-toc" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=250&section=header&text=IRO's%20Tech%20Profile&fontSize=70&animation=fadeIn&fontAlignY=45&fontColor=ffffff" alt="Header"/>
 </div>
 
-<div align="center">
-  <h3 style="border-bottom: 2px solid #2e5aac; padding-bottom: 5px; display: inline-block;">
-    I'm IRO, an AI/ML Engineer who designs and builds scalable, reliable End-to-End AI systems.
-  </h3>
-  <p>
-    My expertise lies in translating complex AI research concepts into production-ready solutions.<br/>I cover the entire development lifecycle, from large-scale distributed training and model optimization to MLOps pipeline automation.
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+  <h2 style="border-bottom: 3px solid #0969da; padding-bottom: 10px; display: inline-block; color: #1f2328;">
+    End-to-End AI System Architect & MLOps Engineer
+  </h2>
+  <p style="font-size: 1.1em; color: #57606a;">
+    초거대 AI 모델의 연구 개발부터 안정적인 프로덕션 운영까지, 전체 생명주기를 포괄하는<br/>확장 가능하고 자동화된 머신러닝 시스템을 설계하고 구축합니다.
   </p>
 </div>
 
-<br>
+---
 
-## 🚀 **Core Competencies & Technical Skills**
+### 🚀 **Core Technical Competencies**
 
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="25" height="25"/>
-          AI & Machine Learning
+  <tr valign="top">
+    <td width="50%">
+      <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; height: 100%;">
+        <h3 align="center" style="color: #0969da; border-bottom: 2px solid #d0d7de; padding-bottom: 10px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="28" height="28"/>
+          Large-Scale AI & Deep Learning
         </h3>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li><b>- Large-Scale Distributed Training</b>: DeepSpeed (ZeRO), PyTorch DDP, TF Strategies</li>
-          <li><b>- Advanced Model Optimization</b>: Quantization (QAT, 4/8-bit), Pruning, Knowledge Distillation</li>
-          <li><b>- Intelligent Automation (AutoML)</b>: Meta-Learning-driven Architecture Recommendation & HPO</li>
-          <li><b>- Key Frameworks</b>: PyTorch, TensorFlow, DeepSpeed, HuggingFace, Scikit-learn</li>
+        <ul style="list-style-type: none; padding-left: 0; font-size: 15px; line-height: 1.8;">
+          <li><b>• 분산 학습 및 파인튜닝</b>: <strong>DeepSpeed (ZeRO Stage 1-3, Offload)</strong>, <strong>PyTorch DDP</strong>, <strong>TensorFlow MirroredStrategy</strong> 등 분산 전략을 활용하여 수십억 파라미터 규모의 모델 학습 및 파인튜닝을 수행합니다.</li>
+          <li><b>• 고급 모델 최적화</b>: 추론 비용 절감을 위해 <strong>Quantization (QAT, 4/8-bit, bitsandbytes)</strong>, <strong>Pruning (Structured/Unstructured)</strong>, <strong>Knowledge Distillation</strong>, <strong>Low-Rank Factorization (SVD)</strong> 등 최신 경량화 기법을 적용합니다.</li>
+          <li><b>• 지능형 AutoML 시스템 설계</b>: <strong>Optuna</strong>를 활용하여 <strong>메타 러닝(Meta-Learning)</strong> 기반 아키텍처 추천, 데이터 특성에 따른 동적 탐색 공간 및 Sampler/Pruner 자동 선택 등 지능형 HPO 파이프라인을 구축합니다.</li>
         </ul>
       </div>
     </td>
-    <td width="50%" valign="top">
-      <div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; background-color: #f6f8fa;">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30" height="30"/>
-          Backend & MLOps
+    <td width="50%">
+      <div style="background-color: #f6f8fa; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; height: 100%;">
+        <h3 align="center" style="color: #0969da; border-bottom: 2px solid #d0d7de; padding-bottom: 10px;">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="28" height="28"/>
+          MLOps & System Architecture
         </h3>
-        <ul style="list-style-type: none; padding-left: 0;">
-          <li><b>- MLOps & Workflow Automation</b>: Building CI/CD/CT pipelines with Airflow, Kubeflow</li>
-          <li><b>- System Architecture</b>: Designing extensible plugin-based architectures and MSA</li>
-          <li><b>- Data Engineering</b>: Large-scale data processing & versioning with Dask/Spark/DVC</li>
-          <li><b>- Development Culture</b>: Strong advocate for Test-Driven Development (TDD) and code quality</li>
+        <ul style="list-style-type: none; padding-left: 0; font-size: 15px; line-height: 1.8;">
+          <li><b>• 워크플로우 오케스트레이션</b>: <strong>Airflow</strong>, <strong>Kubeflow</strong>, Prefect 등 워크플로우 엔진을 기반으로 CI/CD/CT (Continuous Training) 파이프라인을 자동화하고, 실패 시 자동 복구 및 알림 시스템을 연동합니다.</li>
+          <li><b>• 확장 가능한 아키텍처 설계</b>: 새로운 기술을 신속하게 통합할 수 있도록 <strong>플러그인(Plugin) 기반 아키텍처</strong>를 설계하고, 각 컴포넌트의 독립성을 보장하는 MSA 원칙을 적용합니다.</li>
+          <li><b>• 데이터 엔지니어링 및 관리</b>: <strong>Dask</strong>, <strong>Spark</strong>, Petastorm을 이용한 대용량 분산 데이터 처리 및 <strong>DVC</strong>를 통한 데이터 버전 관리, 계보 추적(Lineage) 시스템을 구축합니다.</li>
+          <li><b>• 개발 문화</b>: <strong>Test-Driven Development (TDD)</strong> 원칙에 따라 <strong>pytest</strong>로 높은 테스트 커버리지를 유지하며, 코드 품질과 시스템 안정성을 최우선으로 고려합니다.</li>
         </ul>
       </div>
     </td>
@@ -50,43 +49,62 @@
 
 <br>
 
-## ✨ **Representative Project Experience**
+### ✨ **Representative Project Experience**
 
-<details>
+<details open>
 <summary>
-  <strong style="font-size: 1.1em;">
-    Representative Project: End-to-End MLOps & Automation Platform for Large-Scale AI
+  <strong style="font-size: 1.2em; color: #1f2328;">
+    대표 프로젝트: End-to-End AI 개발 자동화 및 MLOps 플랫폼
   </strong>
 </summary>
-<div style="border: 1px solid #d0d7de; border-radius: 8px; padding: 20px; margin-top: 10px; background-color: #ffffff;">
-  <p>
-    I architected and built a platform from the ground up to automate and manage the entire lifecycle of developing AI models with billions of parameters. This system is designed for continuous operation and optimization in a production environment.
+<div style="background-color: #ffffff; border: 1px solid #d0d7de; border-radius: 10px; padding: 25px; margin-top: 10px;">
+  <p style="font-size: 1.1em;">
+    초거대 AI 모델의 연구 개발부터 배포, 운영까지 전 과정을 자동화하는 MLOps 플랫폼을 A-Z까지 직접 설계하고 구축했습니다. 이 플랫폼은 개발자의 개입을 최소화하고, 안정적인 프로덕션 환경에서 모델의 성능과 비용을 지속적으로 최적화하는 것을 목표로 합니다.
   </p>
-  <ul style="list-style-type: '✅  '; padding-left: 20px;">
+
+  <h4 style="color: #0969da;">주요 성과 및 구현 기능</h4>
+  <ul style="list-style-type: '✔ '; padding-left: 20px; font-size: 15px; line-height: 1.8;">
     <li>
-      <b>Developed an "Auto-Pilot" mode</b>: A one-click solution that analyzes a dataset's characteristics and objectives (performance/cost) to automatically recommend and execute the optimal model, hyperparameters, and distributed training strategy.
+      <strong>Auto-Pilot 시스템 개발</strong>: 데이터셋 특성과 사용자가 설정한 목표(예: 정확도 극대화, 추론 시간 최소화)를 입력받아, 최적의 모델 아키텍처, 하이퍼파라미터, 분산 학습 및 경량화 전략까지 자동으로 추천하고 실행하는 '원클릭' 솔루션을 구현했습니다.
     </li>
     <li>
-      <b>Designed an Advanced Optimization Pipeline</b>: Integrated state-of-the-art quantization (QAT, 4-bit, etc.), pruning, and distillation techniques into an automated compression pipeline, reducing inference costs by up to 75% with minimal performance degradation.
+      <strong>지능형 최적화 파이프라인 구축</strong>: 최신 양자화(QAT, AWQ/GPTQ) 및 모델 압축 기법을 통합하여, 모델 성능 저하를 1% 미만으로 유지하면서 추론 비용을 <strong>최대 75%</strong>까지 절감하는 자동화 파이프라인을 완성했습니다.
     </li>
     <li>
-      <b>Architected a Plugin-Based System</b>: Engineered core components like models, data loaders, and optimizers to be pluggable, ensuring flexibility and rapid integration of new technologies without core code modification.
+      <strong>완벽한 실험 재현성 확보</strong>: 코드, 데이터(DVC), 환경 변수, 패키지 버전의 모든 요소를 해시(Hash) 기반으로 스냅샷을 생성하고 관리하여, 시간과 환경에 구애받지 않고 특정 실험을 <strong>100% 재현</strong>할 수 있는 시스템을 구축했습니다.
     </li>
     <li>
-      <b>Ensured Full Reproducibility</b>: Completed a system that guarantees 100% reproducibility of any experiment by tracking all components—code, data, and environment—with hash values and integrating with DVC.
+      <strong>통합 대시보드 및 모니터링</strong>: Streamlit을 활용하여 실시간 학습 현황, 자원 사용량, 모델 성능 비교, 데이터 품질 리포트 등을 시각적으로 확인하고 제어할 수 있는 양방향 웹 대시보드를 개발했습니다.
     </li>
   </ul>
+
+  <h4 style="color: #0969da;">적용 기술 스택</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/DeepSpeed-007ACC?style=for-the-badge" alt="DeepSpeed"/>
+    <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+    <img src="https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+  </p>
 </div>
 </details>
-
 <br>
 
-## 💬 **My Development Philosophy**
+### 💬 **Development Philosophy**
 
-> I believe the future of AI development lies in **automation, efficiency, and reliability**. My passion is to bridge the gap between theoretical research and practical application by building intelligent systems that empower developers to achieve state-of-the-art results with minimal friction. I always strive to write clean, well-documented, and thoroughly tested code.
+> 견고한 소프트웨어 공학 원칙 위에서 AI 기술이 가장 빛을 발한다고 믿습니다. 저의 개발 철학은 <strong>재현 가능성(Reproducibility)</strong>, <strong>확장성(Scalability)</strong>, <strong>자동화(Automation)</strong>라는 세 가지 키워드로 요약할 수 있습니다. 이는 안정적인 시스템 위에서 AI 모델이 지속적으로 학습하고 발전할 수 있는 기반을 마련하는 가장 효과적인 방법입니다.
 
-<br>
+### 📫 **Contact Information**
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+<p align="center">
+  <a href="mailto:ATMOSPHERE.SHIRO@gmail.com"><img src="https://img.shields.io/badge/Gmail-ATMOSPHERE.SHIRO-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+<div id="user-content-toc" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=footer" alt="Footer"/>
 </div>
