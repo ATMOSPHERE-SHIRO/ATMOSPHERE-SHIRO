@@ -1,9 +1,9 @@
 <div id="header" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=ff00ff,00ffc7&height=300&section=header&text=IRO's%20Universe&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=38" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=00ffc7&height=300&section=header&text=IRO's%20Universe&fontSize=70&animation=twinkling&fontColor=ffffff&fontAlignY=38" alt="Header"/>
 </div>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-  <h2 style="font-weight: 900; font-size: 2.2em; background: linear-gradient(90deg, #ff00ff 0%, #00ffc7 100%); -webkit-background-clip: text; color: transparent;">
+  <h2 style="font-weight: 900; font-size: 2.2em; color: #00ffc7;">
     End-to-End AI System Architect & MLOps Engineer
   </h2>
   <p style="font-size: 1.1em; color: #4a5568;">
@@ -11,15 +11,15 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff,00ffc7&height=70&section=title&width=100%" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ffc7&height=70&section=title&width=100%" alt="Divider"/>
 
 ### **🚀 Core Technical Competencies**
 
 <table width="100%" cellspacing="20" cellpadding="0" style="border: none;">
   <tr valign="top">
     <td width="50%">
-      <div style="background-color: #161b22; border-image: linear-gradient(to bottom right, #ff00ff, #00ffc7) 1; border-width: 3px; border-style: solid; border-radius: 15px; padding: 25px; height: 100%;">
-        <h3 align="center" style="font-weight: bold; color: #ff00ff;">
+      <div style="background-color: #161b22; border: 3px solid #00ffc7; border-radius: 15px; padding: 25px; height: 100%;">
+        <h3 align="center" style="font-weight: bold; color: #00ffc7;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="28" height="28"/>
           Large-Scale AI & Deep Learning
         </h3>
@@ -31,7 +31,7 @@
       </div>
     </td>
     <td width="50%">
-      <div style="background-color: #161b22; border-image: linear-gradient(to bottom right, #00ffc7, #ff00ff) 1; border-width: 3px; border-style: solid; border-radius: 15px; padding: 25px; height: 100%;">
+      <div style="background-color: #161b22; border: 3px solid #00ffc7; border-radius: 15px; padding: 25px; height: 100%;">
         <h3 align="center" style="font-weight: bold; color: #00ffc7;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="28" height="28"/>
           MLOps & System Architecture
@@ -55,7 +55,7 @@
     대표 프로젝트: End-to-End AI 개발 자동화 및 MLOps 플랫폼
   </strong>
 </summary>
-<div style="background-color: #f6f8fa; border-image: linear-gradient(45deg, #ff00ff, #00ffc7) 1; border-width: 4px; border-style: solid; border-radius: 15px; padding: 25px; margin-top: 10px;">
+<div style="background-color: #f6f8fa; border: 4px solid #00ffc7; border-radius: 15px; padding: 25px; margin-top: 10px;">
   <p style="font-size: 1.1em;">
     초거대 AI 모델의 연구 개발부터 배포, 운영까지 전 과정을 자동화하는 MLOps 플랫폼을 A-Z까지 직접 설계하고 구축했습니다. 이 플랫폼은 개발자의 개입을 최소화하고, 안정적인 프로덕션 환경에서 모델의 성능과 비용을 지속적으로 최적화하는 것을 목표로 합니다.
   </p>
@@ -75,8 +75,8 @@
 <br>
 
 ### 💬 **Development Philosophy**
-<div style="background: linear-gradient(90deg, #ff00ff, #00ffc7); border-radius: 10px; padding: 25px; color: white;">
-  <p style="font-style: italic; font-size: 1.1em; text-shadow: 1px 1px 2px black;">견고한 소프트웨어 공학 원칙 위에서 AI 기술이 가장 빛을 발한다고 믿습니다. 저의 개발 철학은 <strong>재현 가능성(Reproducibility)</strong>, <strong>확장성(Scalability)</strong>, <strong>자동화(Automation)</strong>라는 세 가지 키워드로 요약할 수 있습니다. 이는 안정적인 시스템 위에서 AI 모델이 지속적으로 학습하고 발전할 수 있는 기반을 마련하는 가장 효과적인 방법입니다.</p>
+<div style="background-color: #161b22; border-left: 6px solid #00ffc7; border-radius: 10px; padding: 25px; color: #c9d1d9;">
+  <p style="font-style: italic; font-size: 1.1em;">견고한 소프트웨어 공학 원칙 위에서 AI 기술이 가장 빛을 발한다고 믿습니다. 저의 개발 철학은 <strong>재현 가능성(Reproducibility)</strong>, <strong>확장성(Scalability)</strong>, <strong>자동화(Automation)</strong>라는 세 가지 키워드로 요약할 수 있습니다. 이는 안정적인 시스템 위에서 AI 모델이 지속적으로 학습하고 발전할 수 있는 기반을 마련하는 가장 효과적인 방법입니다.</p>
 </div>
 
 ### 📫 **Contact Information**
@@ -87,5 +87,5 @@
 </p>
 
 <div id="footer" align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff,00ffc7&height=200&section=footer" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffc7&height=200&section=footer" alt="Footer"/>
 </div>
