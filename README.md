@@ -90,8 +90,7 @@
 ## 📫 **Contact Me**
 
 <p align="center">
-  <a href="mailto:ATMOSPHERE.SHIRO@gmail.com"><img src="https.img.shields.io/badge/Email-your--ATMOSPHERE.SHIRO@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-your--linkedin--id-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ATMOSPHERE.SHIRO@gmail.com"><img src="https.img.shields.io/badge/https.img.shields.io/badge/Email-your--email@example.com-blue?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <div align="center">
