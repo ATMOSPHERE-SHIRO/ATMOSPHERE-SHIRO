@@ -11,7 +11,7 @@
   </p>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=line&color=ff00ff,00ffc7&height=8&section=title&width=100%&animation=twinkling" alt="Divider"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff00ff,00ffc7&height=70&section=title&width=100%" alt="Divider"/>
 
 ### **🚀 Core Technical Competencies**
 
