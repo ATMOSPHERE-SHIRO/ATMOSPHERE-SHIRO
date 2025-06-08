@@ -66,7 +66,7 @@
 <details open>
 <summary>
   <strong style="font-size: 1.2em; color: #1f2328;">
-    대표 프로젝트: 자가 개선형 End-to-End AI 개발 자동화 및 MLOps 플랫폼
+    대표 프로젝트: <자가 개선형 End-to-End AI 개발 자동화 및 MLOps 플랫폼>
   </strong>
 </summary>
 <div style="background-color: #f6f8fa; border: 4px solid #00ffc7; border-radius: 15px; padding: 25px; margin-top: 10px;">
