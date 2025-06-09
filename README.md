@@ -96,7 +96,7 @@
 
 ### 📫 **Contact Information**
 <p align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-your--email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ATMOSPHERE.SHIRO@gmail.com"><img src="https://img.shields.io/badge/Gmail-your--email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
