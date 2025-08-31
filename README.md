@@ -94,13 +94,6 @@
   <p style="font-style: italic; font-size: 1.1em;">견고한 소프트웨어 공학 원칙 위에서 AI 기술이 가장 빛을 발한다고 믿습니다. 저의 개발 철학은 <strong>재현 가능성(Reproducibility)</strong>, <strong>확장성(Scalability)</strong>, <strong>자동화(Automation)</strong>, 그리고 <strong>자율성(Autonomy)</strong>이라는 네 가지 키워드로 요약할 수 있습니다. 저는 여기서 한 걸음 더 나아가, 과거의 경험으로부터 스스로 학습하여 미래의 결정을 최적화하고, 문제의 근본 원인을 탐색하며, 새로운 해결책까지 창조하는 <strong>'자가 개선 지능 시스템(Self-Improving Intelligent System)'</strong>을 설계하여 AI가 스스로 발전하는 진정한 생태계를 마련합니다.</p>
 </div>
 
-### 📫 **Contact Information**
-<p align="center">
-  <a href="mailto:ATMOSPHERE.SHIRO@gmail.com"><img src="https://img.shields.io/badge/Gmail--D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://linkedin.com/in/your-linkedin-id"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 <div id="footer" align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffc7&height=200&section=footer" alt="Footer"/>
 </div>
